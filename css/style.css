@@ -58,7 +58,7 @@ background: linear-gradient(90deg, rgba(80,0,98,1) 0%, rgba(255,0,0,1) 100%);
 }
 
 #incrBtn {
-    background: rgb(109, 228, 255);
+    background: rgb(111, 228, 255);
     background: linear-gradient(90deg, rgba(109, 228, 255, 1) 0%, rgba(117, 192, 33, 1) 100%);
     color: white;
 }
@@ -67,4 +67,10 @@ background: linear-gradient(90deg, rgba(80,0,98,1) 0%, rgba(255,0,0,1) 100%);
     background: rgb(15, 68, 80);
     background: linear-gradient(90deg, rgb(0, 119, 145) 0%, rgb(99, 99, 99) 100%);
     color: white;
+}
+
+footer {
+    text-align: center;
+    display: flex;
+    justify-content: center;
 }

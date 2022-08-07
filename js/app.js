@@ -1,5 +1,6 @@
 let incrBtn = document.querySelector('#incrBtn')
 let decrBtn = document.querySelector('#decrBtn')
+let resBtn = document.querySelector('#resBtn')
 let result = document.querySelector('#result')
 
 incrBtn.addEventListener('click', function(){
@@ -27,3 +28,4 @@ resBtn.addEventListener('click',function(){
     result.innerHTML = `${sayi}`
 }
 )
+
